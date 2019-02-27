@@ -1,0 +1,60 @@
+body {
+    background: url(../images/group.jpg) center center fixed; 
+ 
+}
+
+
+.title {
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: 'Diplomata SC', cursive;
+    color: white
+}
+
+.question {
+    text-align: center;
+    background-color:white; color: black;
+    font-display:'Roboto Condensed', sans-serif;
+}
+.timer {
+    text-align: center;
+    padding-bottom: 10px;
+    background-color:forestgreen;
+    width: 100%;
+    color:white;
+    font-weight: bold;
+  
+}
+
+
+
+.start {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4CAF50;
+    background-color: white; color:green;
+    
+}
+
+
+
+label {
+    color: black;
+}
+ .finished {
+     text-align: center;
+     color: white
+     
+ }
+
+
+ #submit {
+    margin-left: 45%;
+    background-color: green; color: white;
+    padding: 10px;
+    margin-top: 10px;
+
+ }
+
+ 
